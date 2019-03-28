@@ -8,7 +8,6 @@ from sympy import *
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-get_ipython().run_line_magic('matplotlib', 'inline')
 x, y = symbols('x y')
 
 
